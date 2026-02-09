@@ -52,7 +52,7 @@ This is not just a code dump; it is a log of my "Audacious" challenge to master 
 ---
 
 ## Tech Stack & Tools
-* **Languages:** Python, SQL, PHP (for integration).
+* **Languages:** Python, SQL.
 * **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch.
 * **GenAI:** LangChain, OpenAI/HuggingFace, Vector Databases.
 * **DevOps:** Git, Docker, FastAPI.
