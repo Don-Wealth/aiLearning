@@ -24,11 +24,11 @@ I have temporarily paused this journey to focus on Backend Engineering.
 
 Right now, I’m building a strong foundation in:
 
-[*]Node.js
+* **Node.js**
 
-[-] Express
+* **Express**
 
-[-] MongoDB
+* **MongoDB**
 
 Learning how real systems are built, how data flows, and how applications work behind the scenes.
 
@@ -38,20 +38,23 @@ The goal is to return to AI later — with stronger fundamentals and the ability
 
 ---
 
-## Tech Stack & Tools
-* **Languages:** Python, SQL.
-* **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch.
-* **GenAI:** LangChain, OpenAI/HuggingFace, Vector Databases.
-* **DevOps:** Git, Docker, FastAPI.
+## What This Repository Contains
 
+* **Early notes and learning materials from my AI journey**
+
+* **Experiments with Python and data-related concepts**
+
+* **Foundations of machine learning and model thinking**
+
+**This is not a completed roadmap** — it is a starting point.
 ---
 
 ## Status
 | Metric | Status |
 | :--- | :--- |
-| **Adjusted Start Date** | Feb 06, 2026 |
-| **Target End Date** | June 06, 2026 |
-| **Current Phase** | Phase 1: Foundation |
+| **Current State** | Paused |
+| **Reason** | Focusing on Backend Engineering |
+| **Future Plan** | Resume AI learning with stronger system knowledge |
 
 ---
 
